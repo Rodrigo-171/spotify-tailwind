@@ -64,31 +64,31 @@ export function Main(){
 
           <div className='grid grid-cols-8 gap-4 mt-4'>
             <a href="#" className='bg-white/5 p-3 flex flex-col gap-2 rounded-lg hover:bg-white/10'>
-              <Image src="/images/album.jpg" className="w-full" width={120} height={120} alt="Capa do album de system of down" />
+              <Image src="./images/album.jpg" className="w-full" width={120} height={120} alt="Capa do album de system of down" />
               <strong className='font-semibold'>Daily Mix 1</strong>
               <span className='text-sm text-zinc-400'>System of Down, Metalica, Sepultura</span>
             </a>
 
             <a href="#" className='bg-white/5 p-3 flex flex-col gap-2 rounded-lg hover:bg-white/10'>
-              <Image src="/images/album2.jpg" className="w-full" width={120} height={120} alt="Capa do album de system of down" />
+              <Image src="./images/album2.jpg" className="w-full" width={120} height={120} alt="Capa do album de system of down" />
               <strong className='font-semibold'>Daily Mix 2</strong>
               <span className='text-sm text-zinc-400'>Slipknot, iron Maiden, Slayer</span>
             </a>
 
             <a href="#" className='bg-white/5 p-3 flex flex-col gap-2 rounded-lg hover:bg-white/10'>
-              <Image src="/images/album3.jpg" className="w-full" width={120} height={120} alt="Capa do album de system of down" />
+              <Image src="./images/album3.jpg" className="w-full" width={120} height={120} alt="Capa do album de system of down" />
               <strong className='font-semibold'>Daily Mix 3</strong>
               <span className='text-sm text-zinc-400'>Avenged Sevenfold, Linkin Park, girl in red and more</span>
             </a>
 
             <a href="#" className='bg-white/5 p-3 flex flex-col gap-2 rounded-lg hover:bg-white/10'>
-              <Image src="/images/album4.jpg" className="w-full" width={120} height={120} alt="Capa do album de system of down" />
+              <Image src="./images/album4.jpg" className="w-full" width={120} height={120} alt="Capa do album de system of down" />
               <strong className='font-semibold'>Daily Mix 4</strong>
               <span className='text-sm text-zinc-400'>CPM22, Tihuana, Charlie Brown Jr</span>
             </a>
 
             <a href="#" className='bg-white/5 p-3 flex flex-col gap-2 rounded-lg hover:bg-white/10'>
-              <Image src="/images/album5.jpg" className="w-full" width={120} height={120} alt="Capa do album de system of down" />
+              <Image src="./images/album5.jpg" className="w-full" width={120} height={120} alt="Capa do album de system of down" />
               <strong className='font-semibold'>Daily Mix 5</strong>
               <span className='text-sm text-zinc-400'>Mamonas Assassinas, Raimundos, girl in red and more</span>
             </a>
